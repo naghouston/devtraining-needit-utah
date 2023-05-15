@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Update NeedIt Records">a01cc534973a211067a0bc7ef053afaf</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"a30d143ddeb04f99994df5ee74588026","variable_name":"needit_list","nlu_entity":"","nlu_entity_label":""},{"node_id":"243ea202bf2447b2a15ce475cb1643e9","variable_name":"search_again","nlu_entity":"","nlu_entity_label":""},{"node_id":"eea864dc09b5473391285d6e439c549c","variable_name":"new_when_needed_date","nlu_entity":"","nlu_entity_label":""},{"node_id":"ce0ed077f3f64624b27fed6e42248351","variable_name":"what_to_update","nlu_entity":"","nlu_entity_label":""},{"node_id":"1d3aeaf58cf44c898d42ebf8510ce09e","variable_name":"new_short_description","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-11 18:55:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c9c2d93c973a211067a0bc7ef053aff4</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cb_topic_language_c9c2d93c973a211067a0bc7ef053aff4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-11 20:47:53</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>
